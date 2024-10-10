@@ -1,0 +1,6 @@
+Sistema de Facturación con Archivos Binarios (agregar, buscar, modificar, eliminar y reportes tabla / HTML) con módulos de:
+- Clientes
+- Empleados
+- Proveedores
+- Artículos
+- Facturación
